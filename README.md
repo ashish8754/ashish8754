@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashish8754
-- 👀 I’m interested in ... Java Development
-- 🌱 I’m currently learning ...Java ,Spring Boot,DSA
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning/Working on Java ,Spring Boot,DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ashisha0027@gmail.com
 
