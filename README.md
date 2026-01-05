@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ashish8754
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Ashish Agrawal
+- 👀 I’m interested in Web Development, AI based projects , Open Source 
 - 🌱 I’m currently learning/Working on Java ,Spring Boot,DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ashisha0027@gmail.com
